@@ -1,10 +1,10 @@
 # spotifydesktop
 
-A new Flutter project.
+Spotify Desktop UI
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a clone of the Spotify desktop application, recreated using the Flutter framework with Dart programming language. The goal is to provide a visually appealing and functional alternative to the original Spotify desktop UI.
 
 A few resources to get you started if this is your first Flutter project:
 
