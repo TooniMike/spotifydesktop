@@ -1,6 +1,7 @@
 # spotifydesktop
 
 Spotify Desktop UI
+**********
 
 ## Getting Started
 
